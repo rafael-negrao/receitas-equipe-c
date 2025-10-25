@@ -132,10 +132,10 @@ MIT License - use livremente para cursos e treinamentos.
 
 ```shell script
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/curso-git-github.git
+git clone https://github.com/rafael-negrao/laboratorio-git.git
 
 # 2. Estude o Módulo 1
-cd curso-git-github
+cd laboratorio-git
 
 # 3. Configure sua conta GitHub
 
