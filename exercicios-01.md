@@ -74,6 +74,13 @@ git config --global user.email "seu@email.com"
 git config --list
 ```
 
+1.1 **Configurar o editor de merge:**
+```shell script
+git config --global merge.tool vscode
+git config --global mergetool.vscode.cmd "code --wait $MERGED"
+
+```
+
 2. **Criar repositório no GitHub:**
     - Nome: `receitas-equipe-X` (substituir X pelo número da equipe)
     - Visibilidade: Público
