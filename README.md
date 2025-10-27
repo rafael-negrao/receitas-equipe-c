@@ -22,3 +22,4 @@ Este é um catálogo colaborativo de receitas culinárias.
 
 - Brownie de chocolate
 
+## 🥕 Ingredientes Comuns\n- Sal\n- Azeite\n- Alho
